@@ -1,4 +1,3 @@
-#CS112_A1_T2_2_20230341
 """
 Number scrabble is played with the list of numbers between 1 and 9. Each player takes
 turns picking a number from the list. Once a number has been picked, it cannot be picked
@@ -6,8 +5,6 @@ again. If a player has picked three numbers that add up to 15, that player wins 
 However, if all the numbers are used and no player gets exactly 15, the game is a draw.
 """
 #Mohamed Tarek Fawzey Abd-El fattah
-#ID:20230341
-
 
 
 from itertools import combinations
